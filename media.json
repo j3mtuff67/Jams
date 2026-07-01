@@ -1,0 +1,38 @@
+[
+  {
+    "id": "highway-pursuit-edit",
+    "title": "Highway Pursuit Edit",
+    "category": "Edits",
+    "description": "Fast-cut FiveM chase montage with clean cinematic pacing.",
+    "image": "assets/portfolio/highway-pursuit.jpg",
+    "link": "#",
+    "featured": true
+  },
+  {
+    "id": "server-thumbnail-pack",
+    "title": "Server Thumbnail Pack",
+    "category": "Thumbnails",
+    "description": "YouTube-ready thumbnail style for FiveM content and community posts.",
+    "image": "assets/portfolio/thumbnail-pack.jpg",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": "discord-banner",
+    "title": "Discord Banner",
+    "category": "Graphics",
+    "description": "Clean server branding banner with sharp contrast and premium layout.",
+    "image": "assets/portfolio/discord-banner.jpg",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": "weekly-highlights",
+    "title": "Weekly Highlights #1",
+    "category": "FiveM",
+    "description": "Community highlight reel made for short-form promotion.",
+    "image": "assets/portfolio/weekly-highlights.jpg",
+    "link": "#",
+    "featured": true
+  }
+]
